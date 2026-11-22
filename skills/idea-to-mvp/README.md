@@ -1,6 +1,6 @@
 # idea-to-mvp
 
-A Claude Code skill that takes a startup idea from validation to an MVP architecture, following the Idea and MVP stages of Anthropic's *Founder's Playbook: Building an AI-Native Startup*.
+A Claude Code skill that takes a startup idea from validation to an MVP architecture, following the Idea and MVP stages of Anthropic's [*Founder's Playbook: Building an AI-Native Startup*](https://assets.claude.com/503ee04b4aa55a4db49a69b993463b6fa8dad6d8.pdf).
 
 ## What it does
 
